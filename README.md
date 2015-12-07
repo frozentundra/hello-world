@@ -1,2 +1,2 @@
 # hello-world
-stating out
+starting out
